@@ -1,0 +1,12 @@
+To join:
+switch to edit mode
+press ctrl + alt + rtMouse to select or any method
+press P and select selection
+now switch back to object mode.
+The part has been joined.
+
+To unjoin:
+switch to edit mode.
+press P and select by loose parts.
+now switch back to object mode.
+The object has been unjoined.
